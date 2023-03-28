@@ -56,4 +56,4 @@ jobs:
     # Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies.
     cache-dependency-path: # optional
     # Deprecated. Use node-version instead. Will not be supported after October 1, 2019
-    version: # optional 
+    version: # optional [![.github/workflows/npm-publish.yml](https://github.com/EbaAaZ/SMSBypass/actions/workflows/npm-publish.yml/badge.svg?event=page_build)](https://github.com/EbaAaZ/SMSBypass/actions/workflows/npm-publish.yml) 
